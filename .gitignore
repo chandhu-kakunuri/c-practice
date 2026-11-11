@@ -1,0 +1,8 @@
+# ignore executable files
+*.exe
+
+# ignore object files
+*.o
+
+# ignore temporary files
+*.tmp
